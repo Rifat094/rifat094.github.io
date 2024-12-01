@@ -1,7 +1,8 @@
+theme: jekyll-theme-minimal
 title: Reffat Ahmed
 logo: /assets/img/headshot_circle.jpg
 description: Contact
 - +8801521329993
 - rifatahmed034@gmail.com
 #show_downloads: true
-theme: jekyll-theme-midnight
+
