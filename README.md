@@ -5,8 +5,8 @@ to benefit mutual growth and success.
 
 ## Education
 							       		
-- M.S. in Computer Science and Engineering	| Bangladesh University of Engineering & Technology (July 2023 - ) | CGPA: 3.25  	 			        		
-- B.S. in Computer Science and Engineering	| Khulna University of Engineering & Technology (March 2016 - June 2020) | CGPA: 2.83  	
+- M.S. in Computer Science and Engineering	| Bangladesh University of Engineering & Technology (July 2023 - ) |   	 			        		
+- B.S. in Computer Science and Engineering	| Khulna University of Engineering & Technology (March 2016 - June 2020) |  	
 
 <! ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -22,11 +22,11 @@ to benefit mutual growth and success.
 ### Happy Zone BD
 
 ### InstaClones
-[Publication](https://)
+<![Publication](https://)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study.jpeg)>
 ### FriendsChat
 
 ## Publications
