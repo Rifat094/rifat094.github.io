@@ -18,6 +18,9 @@ body {
     color: #000;   
     margin-top: 40px;
     line-height:16px;
+	overflow-x: hidden;
+    width: 100%;
+    position: relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -375,6 +378,7 @@ box-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;
 .social-icons a:hover {
   color: #00ff6a;
 }
+
 
 
 
