@@ -204,13 +204,20 @@ border-color: #5D5B66;
 .navbar-inverse .navbar-nav > li > a {
 color: #FFFFFF;
 }
-.navbar-links a {
-  color: #9ca3af;
-  text-decoration: none;
+
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    transition: 0.3s ease;
 }
 
-.navbar-links a:hover {
-  color: #00ff6a;
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #00ff9f;
+    text-shadow: 
+        0 0 5px #00ff9f,
+        0 0 10px #00ff9f,
+        0 0 20px #00ff9f,
+        0 0 30px #00ff9f;
 }
 
 
@@ -318,6 +325,7 @@ color: #FFFFFF;
 .social-icons a:hover {
   color: #00ff6a;
 }
+
 
 
 
