@@ -198,7 +198,7 @@ border-color: #5D5B66;
 .navbar-inverse .navbar-brand {
 	color: #ffffff;
 	font-weight: bolder;
-	font-size: 25px;
+	font-size: 35px;
     font-weight:900;
 	letter-spacing: 2px;
 	font-family: 'Orbitron', sans-serif;
@@ -353,6 +353,7 @@ box-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;
 .social-icons a:hover {
   color: #00ff6a;
 }
+
 
 
 
