@@ -184,6 +184,7 @@ p {
    ============================================================*/
 .navbar {
 	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
 }
 
 .navbar-inverse {
@@ -352,6 +353,7 @@ box-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;
 .social-icons a:hover {
   color: #00ff6a;
 }
+
 
 
 
