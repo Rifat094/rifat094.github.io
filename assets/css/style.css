@@ -222,6 +222,29 @@ color: #FFFFFF;
 
 
 /* ==========================================================================
+   button
+   ========================================================================== */
+
+.cv-btn {
+display: inline-block;
+margin-top: 15px;
+padding: 10px 20px;
+background: #00ff9f;
+color: #000;
+font-weight: bold;
+border-radius: 6px;
+text-decoration: none;
+transition: 0.3s ease;
+}
+.cv-btn i {
+margin-right: 8px;
+}
+.cv-btn:hover {
+background: #00ffaa;
+box-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;
+}
+
+/* ==========================================================================
    WORK EXPERIENCE SECTION
    ========================================================================== */
 
@@ -325,6 +348,7 @@ color: #FFFFFF;
 .social-icons a:hover {
   color: #00ff6a;
 }
+
 
 
 
