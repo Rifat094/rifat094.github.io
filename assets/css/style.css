@@ -201,7 +201,7 @@ border-color: #5D5B66;
 	font-size: 25px;
     font-weight:900;
 	letter-spacing: 2px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Orbitron', sans-serif;
 }
 .navbar-inverse :hover .navbar-brand:hover {
 	color: #ffffff;	
@@ -353,6 +353,7 @@ box-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;
 .social-icons a:hover {
   color: #00ff6a;
 }
+
 
 
 
